@@ -6,13 +6,9 @@ const projectDays = [
 
   {
     day: 1,
-
     date: "2026.09.28",
-
     title: "DAY 01",
-
     uploaded: true,
-
     youtubeId: "ehvclCeThqU",
 
     description:
@@ -22,7 +18,6 @@ const projectDays = [
       "DAY 01에서 사용한 전체 프롬프트와 생성 기록은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day1-prompt.pdf",
-
     promptFileName: "DAY 01 · PROMPT PDF",
 
     note:
@@ -36,13 +31,9 @@ const projectDays = [
 
   {
     day: 2,
-
     date: "2026.09.29",
-
     title: "DAY 02",
-
     uploaded: true,
-
     youtubeId: "yj5tk5_3hyc",
 
     description:
@@ -52,7 +43,6 @@ const projectDays = [
       "DAY 02에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day2-prompt.pdf",
-
     promptFileName: "DAY 02 · PROMPT PDF",
 
     note:
@@ -66,23 +56,18 @@ const projectDays = [
 
   {
     day: 3,
-
     date: "2026.09.30",
-
     title: "DAY 03",
-
     uploaded: true,
-
     youtubeId: "G_GnO5M8GEU",
 
     description:
-      "회의실 분위기는 엉망이다. 주인공은 책상에 턱을 괴고 엎드린 채 한숨을 쉬고, 눈만 두 번 깜빡이며 멍하니 앞을 바라본다. 그 앞에서 팀장은 무너진 도면 옆에 서서 짜증 난 얼굴로 무엇이 잘못됐는지 열심히 설명한다. 분필로 도면을 가리키기도 하고 손을 펼치기도 하지만, 주인공의 귀에는 그 말이 하나도 들어오지 않는다. 머릿속은 이미 딴 데 가 있다. 그러다 팀장의 입에서 작은 기둥과 보, 블록 조각들이 말 대신 튀어나와 공중에 둥둥 떠다니기 시작한다. 이는 주인공의 머릿속에서만 일어나는 장면으로, 조각들이 공중에 떠 있는 채 영상이 끝난다.",
+      "회의실 분위기는 엉망이다. 주인공은 책상에 턱을 괴고 엎드린 채 한숨을 쉬고, 눈만 두 번 깜빡이며 멍하니 앞을 바라본다. 그 앞에서 팀장은 무너진 도면 옆에 서서 짜증 난 얼굴로 무엇이 잘못됐는지 열심히 설명한다. 분필로 도면을 가리키기도 하고 손을 펼치기도 하지만, 주인공의 귀에는 그 말이 하나도 들어오지 않는다. 그러다 팀장의 입에서 작은 기둥과 보, 블록 조각들이 말 대신 튀어나와 공중에 둥둥 떠다니기 시작한다.",
 
     prompt:
       "DAY 03에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day3-prompt.pdf",
-
     promptFileName: "DAY 03 · PROMPT PDF",
 
     note:
@@ -96,13 +81,9 @@ const projectDays = [
 
   {
     day: 4,
-
     date: "2026.10.01",
-
     title: "DAY 04",
-
     uploaded: true,
-
     youtubeId: "dq2jvv-HqNM",
 
     description:
@@ -112,7 +93,6 @@ const projectDays = [
       "DAY 04에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day4-prompt.pdf",
-
     promptFileName: "DAY 04 · PROMPT PDF",
 
     note:
@@ -126,13 +106,9 @@ const projectDays = [
 
   {
     day: 5,
-
     date: "2026.10.02",
-
     title: "DAY 05",
-
     uploaded: true,
-
     youtubeId: "bGrEuIAbkm0",
 
     description:
@@ -142,7 +118,6 @@ const projectDays = [
       "DAY 05에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day5-prompt.pdf",
-
     promptFileName: "DAY 05 · PROMPT PDF",
 
     note:
@@ -156,13 +131,9 @@ const projectDays = [
 
   {
     day: 6,
-
     date: "2026.10.03",
-
     title: "DAY 06",
-
     uploaded: true,
-
     youtubeId: "KSt5uUfZlmY",
 
     description:
@@ -172,7 +143,6 @@ const projectDays = [
       "DAY 06에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day6-prompt.pdf",
-
     promptFileName: "DAY 06 · PROMPT PDF",
 
     note:
@@ -186,13 +156,9 @@ const projectDays = [
 
   {
     day: 7,
-
     date: "2026.10.04",
-
     title: "DAY 07",
-
     uploaded: true,
-
     youtubeId: "RH2ph3jOxxQ",
 
     description:
@@ -202,7 +168,6 @@ const projectDays = [
       "DAY 07에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day7-prompt.pdf",
-
     promptFileName: "DAY 07 · PROMPT PDF",
 
     note:
@@ -216,13 +181,9 @@ const projectDays = [
 
   {
     day: 8,
-
     date: "2026.10.05",
-
     title: "DAY 08",
-
     uploaded: true,
-
     youtubeId: "kZY9DEmLDao",
 
     description:
@@ -232,7 +193,6 @@ const projectDays = [
       "DAY 08에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day8-prompt.pdf",
-
     promptFileName: "DAY 08 · PROMPT PDF",
 
     note:
@@ -246,13 +206,9 @@ const projectDays = [
 
   {
     day: 9,
-
     date: "2026.10.06",
-
     title: "DAY 09",
-
     uploaded: true,
-
     youtubeId: "0d2_sySqJqo",
 
     description:
@@ -262,22 +218,121 @@ const projectDays = [
       "DAY 09에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
 
     promptFile: "./day9-prompt.pdf",
-
     promptFileName: "DAY 09 · PROMPT PDF",
 
     note:
       "바닥에 쏟아진 면의 모양이 두 컷에서 똑같이 유지되도록 프롬프트에 명시했다. 빅헤디의 한숨이 절망적으로 보이지 않고 어이없는 정도로 보이게 표정과 어깨 움직임을 작게 잡았다."
+  },
+
+
+  /* =====================================================
+     DAY 10 — EARLY TEST
+  ====================================================== */
+
+  {
+    day: 10,
+    date: "2026.10.07",
+    title: "DAY 10",
+    uploaded: true,
+    youtubeId: "4R3I0kA4HQk",
+
+    description:
+      "빅헤디가 회의실에서 팀장의 설명을 듣다가 점점 집중을 잃고 딴생각에 빠지는 장면을 테스트했다. 실제 회의실의 구조와 캐릭터의 위치를 유지하면서 빅헤디의 시선과 작은 움직임만으로 멍해지는 순간을 표현하려 했다.",
+
+    prompt:
+      "DAY 10은 초기 생성 테스트를 바탕으로 당시의 장면 의도와 프롬프트 구조를 다시 정리한 기록입니다.",
+
+    promptFile: "./day10-prompt.pdf",
+    promptFileName: "DAY 10 · PROMPT RECORD",
+
+    note:
+      "장면 자체는 원하는 분위기에 가까웠지만 카메라가 바뀔 때 캐릭터와 배경의 위치가 조금씩 달라지는 문제가 있었다. 이후에는 회의실 레퍼런스와 배치도를 함께 사용하고 카메라 위치와 인물의 방향을 프롬프트에서 더 구체적으로 지정했다."
+  },
+
+
+  /* =====================================================
+     DAY 11 — EARLY TEST
+  ====================================================== */
+
+  {
+    day: 11,
+    date: "2026.10.08",
+    title: "DAY 11",
+    uploaded: true,
+    youtubeId: "e1MmxTJ8qpQ",
+
+    description:
+      "회의가 이어지는 동안 빅헤디의 집중이 흐려지고 현실의 설명이 머릿속 이미지로 바뀌는 장면을 테스트했다. 팀장의 설명과 빅헤디의 반응을 한 공간 안에서 이어 가면서 현실과 상상의 경계가 자연스럽게 넘어가도록 만들려고 했다.",
+
+    prompt:
+      "DAY 11은 초기 생성 결과를 기준으로 캐릭터, 공간, 카메라와 감정 지시문을 다시 정리한 프롬프트 기록입니다.",
+
+    promptFile: "./day11-prompt.pdf",
+    promptFileName: "DAY 11 · PROMPT RECORD",
+
+    note:
+      "처음에는 캐릭터의 행동과 공간의 변화를 한 번에 지시했는데 장면이 바뀔 때 인물의 자세와 공간 배치가 안정적으로 이어지지 않았다. 이후 캐릭터 시트와 공간 레퍼런스를 분리해서 사용하고, 한 컷에서 필요한 행동을 줄여 장면별로 나누어 생성했다."
+  },
+
+
+  /* =====================================================
+     DAY 12 — EARLY TEST
+  ====================================================== */
+
+  {
+    day: 12,
+    date: "2026.10.09",
+    title: "DAY 12",
+    uploaded: true,
+    youtubeId: "9WaPafNTWQk",
+
+    description:
+      "빅헤디의 딴생각 속에서 주변의 평범한 사물이 작은 건축 구조처럼 움직이고 조립되는 장면을 테스트했다. 사물들이 스스로 움직이지만 실제 촬영된 클레이 소품처럼 보이도록 하고, 완성된 구조가 다음 컷에서도 같은 형태로 유지되는 것을 목표로 했다.",
+
+    prompt:
+      "DAY 12은 초기 생성 테스트에서 발생한 오브젝트 일관성 문제를 기준으로 프롬프트를 다시 정리한 기록입니다.",
+
+    promptFile: "./day12-prompt.pdf",
+    promptFileName: "DAY 12 · PROMPT RECORD",
+
+    note:
+      "생성 과정에서 구조물이 컷마다 다른 모양으로 바뀌거나 소품의 개수와 위치가 달라지는 문제가 있었다. 이후에는 사용할 소품의 개수와 구조를 먼저 정하고 각 부재의 위치와 조립 순서를 프롬프트에 명시해 같은 형태가 유지되도록 수정했다."
+  },
+
+
+  /* =====================================================
+     DAY 13 — EARLY TEST
+  ====================================================== */
+
+  {
+    day: 13,
+    date: "2026.10.10",
+    title: "DAY 13",
+    uploaded: true,
+    youtubeId: "-lBHthsR-0E",
+
+    description:
+      "빅헤디가 상상에 빠져 있는 동안 주변 인물의 행동과 소리가 점점 멀어지고, 외부의 자극으로 다시 현실을 인식하는 흐름을 테스트했다. 캐릭터의 큰 움직임보다 시선과 표정, 반응의 타이밍을 이용해 집중이 끊기는 순간을 보여 주려고 했다.",
+
+    prompt:
+      "DAY 13은 초기 영상의 액션과 타이밍을 기준으로 당시의 생성 의도를 다시 정리한 프롬프트 기록입니다.",
+
+    promptFile: "./day13-prompt.pdf",
+    promptFileName: "DAY 13 · PROMPT RECORD",
+
+    note:
+      "한 영상 안에 여러 행동과 반응을 연속으로 넣으면서 원하는 타이밍과 순서가 정확하게 나오지 않는 문제가 있었다. 이후에는 한 컷에 하나의 핵심 행동만 두고, 캐릭터의 표정과 시선 변화도 작은 단위로 나누어 지시하는 방식으로 수정했다."
   }
 
 ];
 
 
 /* =====================================================
-   DAY 10 — DAY 30
+   DAY 14 — DAY 30
    아직 업로드되지 않은 날짜
 ===================================================== */
 
-for (let i = 10; i <= 30; i++) {
+for (let i = 14; i <= 30; i++) {
 
   projectDays.push({
 
