@@ -81,7 +81,7 @@ const projectDays = [
 
   {
     day: 4,
-    date: "2026.10.01",
+    date: "",
     title: "DAY 04",
     uploaded: true,
     youtubeId: "dq2jvv-HqNM",
@@ -106,7 +106,7 @@ const projectDays = [
 
   {
     day: 5,
-    date: "2026.10.02",
+    date: "",
     title: "DAY 05",
     uploaded: true,
     youtubeId: "bGrEuIAbkm0",
@@ -131,7 +131,7 @@ const projectDays = [
 
   {
     day: 6,
-    date: "2026.10.03",
+    date: "",
     title: "DAY 06",
     uploaded: true,
     youtubeId: "KSt5uUfZlmY",
@@ -156,7 +156,7 @@ const projectDays = [
 
   {
     day: 7,
-    date: "2026.10.04",
+    date: "",
     title: "DAY 07",
     uploaded: true,
     youtubeId: "RH2ph3jOxxQ",
@@ -181,7 +181,7 @@ const projectDays = [
 
   {
     day: 8,
-    date: "2026.10.05",
+    date: "",
     title: "DAY 08",
     uploaded: true,
     youtubeId: "kZY9DEmLDao",
@@ -206,7 +206,7 @@ const projectDays = [
 
   {
     day: 9,
-    date: "2026.10.06",
+    date: "",
     title: "DAY 09",
     uploaded: true,
     youtubeId: "0d2_sySqJqo",
@@ -231,22 +231,16 @@ const projectDays = [
 
   {
     day: 10,
-    date: "2026.10.07",
+    date: "",
     title: "DAY 10",
     uploaded: true,
     youtubeId: "4R3I0kA4HQk",
-
-    description:
-      "빅헤디가 회의실에서 팀장의 설명을 듣다가 점점 집중을 잃고 딴생각에 빠지는 장면을 테스트했다. 실제 회의실의 구조와 캐릭터의 위치를 유지하면서 빅헤디의 시선과 작은 움직임만으로 멍해지는 순간을 표현하려 했다.",
-
+    description: "",
     prompt:
-      "DAY 10의 초기 생성 테스트를 바탕으로 장면의 의도와 프롬프트 구조를 다시 정리한 기록입니다.",
-
+      "DAY 10에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
     promptFile: "./day10-prompt.pdf",
     promptFileName: "DAY 10 · PROMPT PDF",
-
-    note:
-      "장면 자체는 원하는 분위기에 가까웠지만 카메라가 바뀔 때 캐릭터와 배경의 위치가 조금씩 달라지는 문제가 있었다. 이후에는 회의실 레퍼런스와 배치도를 함께 사용하고 카메라 위치와 인물의 방향을 프롬프트에서 더 구체적으로 지정했다."
+    note: ""
   },
 
 
@@ -256,22 +250,16 @@ const projectDays = [
 
   {
     day: 11,
-    date: "2026.10.08",
+    date: "",
     title: "DAY 11",
     uploaded: true,
     youtubeId: "e1MmxTJ8qpQ",
-
-    description:
-      "회의가 이어지는 동안 빅헤디의 집중이 흐려지고 현실의 설명이 머릿속 이미지로 바뀌는 장면을 테스트했다. 팀장의 설명과 빅헤디의 반응을 한 공간 안에서 이어 가면서 현실과 상상의 경계가 자연스럽게 넘어가도록 만들려고 했다.",
-
+    description: "",
     prompt:
-      "DAY 11의 초기 생성 결과를 기준으로 캐릭터, 공간, 카메라와 감정 지시문을 다시 정리한 프롬프트 기록입니다.",
-
+      "DAY 11에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
     promptFile: "./day11-prompt.pdf",
     promptFileName: "DAY 11 · PROMPT PDF",
-
-    note:
-      "처음에는 캐릭터의 행동과 공간의 변화를 한 번에 지시했는데 장면이 바뀔 때 인물의 자세와 공간 배치가 안정적으로 이어지지 않았다. 이후 캐릭터 시트와 공간 레퍼런스를 분리해서 사용하고, 한 컷에서 필요한 행동을 줄여 장면별로 나누어 생성했다."
+    note: ""
   },
 
 
@@ -281,22 +269,16 @@ const projectDays = [
 
   {
     day: 12,
-    date: "2026.10.09",
+    date: "",
     title: "DAY 12",
     uploaded: true,
     youtubeId: "9WaPafNTWQk",
-
-    description:
-      "빅헤디의 딴생각 속에서 주변의 평범한 사물이 작은 건축 구조처럼 움직이고 조립되는 장면을 테스트했다. 사물들이 스스로 움직이지만 실제 촬영된 클레이 소품처럼 보이도록 하고, 완성된 구조가 다음 컷에서도 같은 형태로 유지되는 것을 목표로 했다.",
-
+    description: "",
     prompt:
-      "DAY 12의 초기 생성 테스트에서 발생한 오브젝트 일관성 문제를 기준으로 프롬프트를 다시 정리한 기록입니다.",
-
+      "DAY 12에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
     promptFile: "./day12-prompt.pdf",
     promptFileName: "DAY 12 · PROMPT PDF",
-
-    note:
-      "생성 과정에서 구조물이 컷마다 다른 모양으로 바뀌거나 소품의 개수와 위치가 달라지는 문제가 있었다. 이후에는 사용할 소품의 개수와 구조를 먼저 정하고 각 부재의 위치와 조립 순서를 프롬프트에 명시해 같은 형태가 유지되도록 수정했다."
+    note: ""
   },
 
 
@@ -306,22 +288,16 @@ const projectDays = [
 
   {
     day: 13,
-    date: "2026.10.10",
+    date: "",
     title: "DAY 13",
     uploaded: true,
     youtubeId: "-lBHthsR-0E",
-
-    description:
-      "빅헤디가 상상에 빠져 있는 동안 주변 인물의 행동과 소리가 점점 멀어지고, 외부의 자극으로 다시 현실을 인식하는 흐름을 테스트했다. 캐릭터의 큰 움직임보다 시선과 표정, 반응의 타이밍을 이용해 집중이 끊기는 순간을 보여 주려고 했다.",
-
+    description: "",
     prompt:
-      "DAY 13의 초기 영상에서 나타난 액션과 타이밍 문제를 기준으로 생성 의도와 프롬프트를 다시 정리한 기록입니다.",
-
+      "DAY 13에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
     promptFile: "./day13-prompt.pdf",
     promptFileName: "DAY 13 · PROMPT PDF",
-
-    note:
-      "한 영상 안에 여러 행동과 반응을 연속으로 넣으면서 원하는 타이밍과 순서가 정확하게 나오지 않는 문제가 있었다. 이후에는 한 컷에 하나의 핵심 행동만 두고, 캐릭터의 표정과 시선 변화도 작은 단위로 나누어 지시하는 방식으로 수정했다."
+    note: ""
   },
 
 
@@ -331,13 +307,13 @@ const projectDays = [
 
   {
     day: 14,
-    date: "2026.10.11",
+    date: "",
     title: "DAY 14",
     uploaded: true,
     youtubeId: "LsbfcDAUVLU",
 
     description:
-      "식탁에 엎드려 잠들어 있던 빅헤디가 밖에서 울리는 초인종 소리에 천천히 고개를 든다. 아직 잠이 덜 깬 얼굴로 멍하니 창문 쪽을 바라보자 밝은 햇빛이 블라인드 사이로 들어오는 한낮의 풍경이 보인다. 그제야 이미 해가 높이 떴다는 것을 알아차린다.",
+      "식탁에 엎드려 잠들어 있던 빅헤디가 밖에서 울리는 초인종 소리에 천천히 고개를 든다. 아직 잠이 덜 깬 얼굴이다. 그가 멍하니 창문 쪽을 바라보자 밝은 햇빛이 블라인드 사이로 들어오는 한낮의 풍경이 보인다. 이미 해가 높이 떴다는 걸 이때 알게 된다.",
 
     prompt:
       "DAY 14에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
@@ -346,7 +322,7 @@ const projectDays = [
     promptFileName: "DAY 14 · PROMPT PDF",
 
     note:
-      "이전 밤 장면과 같은 집이지만 창밖을 밝은 낮 풍경으로 바꿔 시간이 흘렀다는 것을 보여 주려고 했다. 컷이 이어질 때 빅헤디의 시선이 자연스럽게 다음 장면으로 넘어가도록 시선 방향을 맞춰서 만들었다."
+      "이전 밤 장면과 같은 집이지만 창밖을 밝은 낮 풍경으로 바꿔서 시간이 흘렀다는 걸 보여 주려 했다. 컷이 이어질 때 빅헤디의 시선이 자연스럽게 다음 장면으로 넘어가도록 시선 방향을 맞춰서 만들었다."
   },
 
 
@@ -356,13 +332,13 @@ const projectDays = [
 
   {
     day: 15,
-    date: "2026.10.12",
+    date: "",
     title: "DAY 15",
     uploaded: true,
     youtubeId: "dVmTS_TH3lE",
 
     description:
-      "빅헤디가 책상 위 휴대폰을 손가락으로 톡 건드리자 화면이 켜지고 같은 사람에게서 온 부재중 전화가 줄줄이 떠 있다. 화면을 확인한 빅헤디의 눈이 점점 커진다. 그때 초인종이 다시 울리고 빅헤디는 현관 쪽으로 홱 고개를 돌린다. 걱정스러운 눈빛으로 문을 바라보며 영상이 끝난다.",
+      "빅헤디가 책상 위 휴대폰을 손가락으로 톡 건드리자 화면이 켜지고 같은 사람에게서 온 부재중 전화가 줄줄이 떠 있다. 화면을 확인한 빅헤디의 눈이 점점 커진다. 그때 초인종이 다시 울리고 그는 현관 쪽으로 홱 고개를 돌린다. 걱정스러운 눈빛으로 문을 바라보며 영상이 끝난다.",
 
     prompt:
       "DAY 15에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
@@ -371,7 +347,7 @@ const projectDays = [
     promptFileName: "DAY 15 · PROMPT PDF",
 
     note:
-      "AI가 휴대폰 화면의 글자를 정확하게 표현하지 못해서 부재중 전화 아이콘만 생성하고 글자는 후반 작업에서 따로 넣을 예정이다. 초인종 소리는 첫 번째와 두 번째가 같은 소리로 들리도록 프롬프트에서 맞춰 줬다."
+      "AI가 휴대폰 화면의 글자를 정확하게 쓰지 못해서 부재중 전화 아이콘만 만들고 글자는 후반 작업에서 따로 넣을 예정이다. 초인종 소리는 첫 번째와 두 번째가 똑같이 들리도록 프롬프트에서 맞춰 줬다."
   },
 
 
@@ -381,7 +357,7 @@ const projectDays = [
 
   {
     day: 16,
-    date: "2026.10.13",
+    date: "",
     title: "DAY 16",
     uploaded: true,
     youtubeId: "JEwrltpjiPI",
@@ -396,7 +372,7 @@ const projectDays = [
     promptFileName: "DAY 16 · PROMPT PDF",
 
     note:
-      "컷마다 카메라를 고정하고 시선 방향을 이어 붙여서 자는 모습에서 한낮 풍경과 휴대폰 화면, 놀란 표정까지 한 흐름으로 보이게 했다. 휴대폰 화면의 글자는 AI가 정확하게 쓰지 못해서 아이콘 위주로 만들었다."
+      "컷마다 카메라를 고정하고 시선 방향을 이어 붙여서 자는 모습에서 한낮 풍경과 휴대폰 화면과 놀란 표정까지 한 흐름으로 보이게 했다. 휴대폰 화면의 글자는 AI가 정확하게 쓰지 못해서 아이콘 위주로 만들었다."
   },
 
 
@@ -406,13 +382,13 @@ const projectDays = [
 
   {
     day: 17,
-    date: "2026.10.14",
+    date: "",
     title: "DAY 17",
     uploaded: true,
     youtubeId: "tdzdl6J2YvA",
 
     description:
-      "현관문 앞에 선 팀장은 잔뜩 화가 난 얼굴이다. 턱을 살짝 들고 눈썹을 모은 채 빅헤디를 오래 노려보고, 빅헤디는 그 시선 아래에서 어깨를 움츠린다. 팀장이 한마디 하려고 입을 여는데 갑자기 말을 멈춘다. 빅헤디 어깨 너머 집 안쪽에서 무언가가 눈에 들어왔기 때문이다. 화가 나 있던 표정이 어느새 호기심으로 바뀌고 팀장은 빅헤디를 지나쳐 집 안을 뚫어지게 바라본다. 그 시선 끝에는 마른 스파게티 면과 치즈 조각을 이어 만든 구조물이 가스레인지 앞 바닥에 우뚝 서 있다. 팀장은 한참 동안 말없이 그것을 올려다보고 표정에는 놀라움이 번져 간다.",
+      "현관문 앞에 선 팀장은 잔뜩 화가 난 얼굴이다. 턱을 살짝 들고 눈썹을 모은 채 빅헤디를 오래 노려보고 빅헤디는 그 시선 아래에서 어깨를 움츠린다. 팀장이 한마디 하려고 입을 여는데 갑자기 말을 멈춘다. 빅헤디 어깨 너머 집 안쪽에서 무언가가 눈에 들어왔기 때문이다. 화가 나 있던 표정이 어느새 호기심으로 바뀌고 팀장은 빅헤디를 지나쳐 집 안을 뚫어지게 바라본다. 그 시선 끝에는 마른 스파게티 면과 치즈 조각을 이어 만든 구조물이 가스레인지 앞 바닥에 우뚝 서 있다. 팀장은 한참 동안 말없이 그것을 올려다보고 표정에는 놀라움이 번져 간다.",
 
     prompt:
       "DAY 17에서 사용한 전체 프롬프트와 생성 과정은 아래 PDF 파일에서 확인할 수 있습니다.",
@@ -421,7 +397,7 @@ const projectDays = [
     promptFileName: "DAY 17 · PROMPT PDF",
 
     note:
-      "구조물이 책상 위가 아니라 가스레인지 앞 바닥에 서 있어야 해서 위치를 프롬프트에 여러 번 명시했다. 팀장 시점 컷에서는 빅헤디가 뒤돌아 보이지 않고 앞모습만 보이도록 카메라 위치와 방향을 따로 지정했다."
+      "구조물이 책상 위가 아니라 가스레인지 앞 바닥에 서 있어야 해서 위치를 프롬프트에 여러 번 못 박았다. 팀장 시점 컷에서는 빅헤디가 뒤돌아 보이지 않고 앞모습만 보이도록 카메라 위치와 방향을 따로 지정했다."
   },
 
 
@@ -431,7 +407,7 @@ const projectDays = [
 
   {
     day: 18,
-    date: "2026.10.15",
+    date: "",
     title: "DAY 18",
     uploaded: true,
     youtubeId: "TFgroIjYA1g",
@@ -456,7 +432,7 @@ const projectDays = [
 
   {
     day: 19,
-    date: "2026.10.16",
+    date: "",
     title: "DAY 19",
     uploaded: true,
     youtubeId: "wVpeOs7sBXY",
@@ -472,40 +448,205 @@ const projectDays = [
 
     note:
       "빅헤디가 새로 놀란 것처럼 보이면 앞 내용과 어긋나서 이미 늦은 걸 아는 상태에서 미안해하는 표정으로 맞췄다. 고양이 컷은 하품하는 동안 카메라가 뒤로 빠지게 해서 구조물 전체가 자연스럽게 드러나도록 했다."
+  },
+
+
+  /* =====================================================
+     DAY 20
+  ====================================================== */
+
+  {
+    day: 20,
+    date: "",
+    title: "DAY 20",
+    uploaded: true,
+    youtubeId: "YWufKbIQKhM",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 21
+  ====================================================== */
+
+  {
+    day: 21,
+    date: "",
+    title: "DAY 21",
+    uploaded: true,
+    youtubeId: "lU4J41QK3kQ",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 22
+  ====================================================== */
+
+  {
+    day: 22,
+    date: "",
+    title: "DAY 22",
+    uploaded: true,
+    youtubeId: "SCyiExYcop0",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 23
+  ====================================================== */
+
+  {
+    day: 23,
+    date: "",
+    title: "DAY 23",
+    uploaded: true,
+    youtubeId: "nCj1TJHs4Os",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 24
+  ====================================================== */
+
+  {
+    day: 24,
+    date: "",
+    title: "DAY 24",
+    uploaded: true,
+    youtubeId: "IHIoBrTZJHE",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 25
+  ====================================================== */
+
+  {
+    day: 25,
+    date: "",
+    title: "DAY 25",
+    uploaded: true,
+    youtubeId: "MTsq8YbMZr8",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 26
+  ====================================================== */
+
+  {
+    day: 26,
+    date: "",
+    title: "DAY 26",
+    uploaded: true,
+    youtubeId: "BD95hP_-ptw",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 27
+  ====================================================== */
+
+  {
+    day: 27,
+    date: "",
+    title: "DAY 27",
+    uploaded: true,
+    youtubeId: "cAcfvEEcBMQ",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 28
+  ====================================================== */
+
+  {
+    day: 28,
+    date: "",
+    title: "DAY 28",
+    uploaded: true,
+    youtubeId: "Y4tsv0SPF7E",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
+  },
+
+
+  /* =====================================================
+     DAY 29
+  ====================================================== */
+
+  {
+    day: 29,
+    date: "",
+    title: "DAY 29",
+    uploaded: true,
+    youtubeId: "hTLq3cg33Uw",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
   }
 
 ];
 
 
 /* =====================================================
-   DAY 20 — DAY 30
+   DAY 30
    아직 업로드되지 않은 날짜
 ===================================================== */
 
-for (let i = 20; i <= 30; i++) {
-
-  projectDays.push({
-
-    day: i,
-
-    date: "",
-
-    title: `DAY ${String(i).padStart(2, "0")}`,
-
-    uploaded: false,
-
-    youtubeId: "",
-
-    description: "",
-
-    prompt: "",
-
-    promptFile: "",
-
-    promptFileName: "",
-
-    note: ""
-
-  });
-
-}
+projectDays.push({
+  day: 30,
+  date: "",
+  title: "DAY 30",
+  uploaded: false,
+  youtubeId: "",
+  description: "",
+  prompt: "",
+  promptFile: "",
+  promptFileName: "",
+  note: ""
+});
