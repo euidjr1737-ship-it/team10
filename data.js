@@ -461,11 +461,16 @@ const projectDays = [
     title: "DAY 20",
     uploaded: true,
     youtubeId: "YWufKbIQKhM",
-    description: "",
+
+    description:
+      "팀장이 손목시계를 내밀고 반대쪽 손으로 시계를 톡톡 두드리며 늦었다는 걸 알린다. 다음 컷에서는 면과 치즈로 만든 구조물 맨 위에 앉은 고양이가 졸린 얼굴로 하품을 한다. 카메라가 천천히 뒤로 빠지면서 계단처럼 층층이 쌓인 탑 전체와 바닥에 흩어진 면과 치즈 조각이 드러난다. 탑이 모두 보이는 장면에서 영상이 끝나고 클레이 질감의 배경 위에 제목과 제작진이 올라간다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "마지막 영상이라 이야기를 마무리하는 쪽으로 만들었다. 고양이가 하품하는 동안 카메라가 뒤로 빠지게 해서 밤새 만든 탑의 정체가 한 번에 드러나게 했다. 엔딩 크레딧은 점토 바닥 위에 글자를 얹어서 전체 영상의 질감과 이어지게 했다."
   },
 
 
@@ -479,11 +484,16 @@ const projectDays = [
     title: "DAY 21",
     uploaded: true,
     youtubeId: "lU4J41QK3kQ",
-    description: "",
+
+    description:
+      "고양이가 치즈 덩어리를 앞발로 너무 신나게 뜯어서 수염에 부스러기를 묻힌 채 빅헤디에게 한 조각을 내민다. 작업하던 빅헤디가 돌아보다가 고양이가 치즈를 건네는 걸 발견한다. 입에는 면 한 가닥을 문 채 당황하면서도 웃음이 터져서 면이 위아래로 흔들린다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "고양이 어깨 너머로 빅헤디의 얼굴이 보이는 구도로 만들었다. 두 캐릭터가 항상 같은 쪽에 서도록 위치를 고정해서 컷이 바뀌어도 방향이 헷갈리지 않게 했다."
   },
 
 
@@ -497,11 +507,16 @@ const projectDays = [
     title: "DAY 22",
     uploaded: true,
     youtubeId: "SCyiExYcop0",
-    description: "",
+
+    description:
+      "밤이 깊은 빅헤디의 아파트 건물이 멀리서 보이고 이웃집 창문마다 불이 켜져 있다. 시간이 흐르면서 하늘이 짙은 파란색에서 분홍빛 새벽으로 물들고 이웃집 창문은 하나둘 꺼진다. 그런데 빅헤디의 창문만 밤새 따뜻하게 켜져 있다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "시간이 흐르는 장면은 실제 스톱모션처럼 조명을 바꾸고 하늘 배경을 갈아 끼우고 솜 구름을 움직인 것처럼 보이게 했다. 창문 안쪽은 끝까지 보이지 않게 해서 무엇을 만드는지 숨겼다."
   },
 
 
@@ -515,11 +530,16 @@ const projectDays = [
     title: "DAY 23",
     uploaded: true,
     youtubeId: "nCj1TJHs4Os",
-    description: "",
+
+    description:
+      "이번에는 고양이가 평소처럼 무표정한 얼굴로 치즈를 번쩍 들고 빅헤디를 올려다본다. 빅헤디는 면을 문 채 치즈를 받아 고맙다는 듯 고개를 꾸벅한다. 그는 곧바로 작업에 다시 뛰어든다. 면 조각이 핑 날아가자 고양이의 눈이 그걸 따라가고 고양이는 그의 옆에 앉아 조수처럼 지켜본다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "고양이가 새침하게 있다가 살짝 뿌듯해하는 느낌으로 눈과 표정을 작게 잡았다. 앞 컷과 이어지도록 인물 위치와 치즈를 건네는 동작을 맞췄다."
   },
 
 
@@ -533,11 +553,16 @@ const projectDays = [
     title: "DAY 24",
     uploaded: true,
     youtubeId: "IHIoBrTZJHE",
-    description: "",
+
+    description:
+      "날이 밝아 오는 건물 바깥 풍경이다. 분홍빛이던 하늘이 환한 아침으로 바뀌고 솜으로 만든 구름이 천천히 흘러간다. 아침 햇살이 건물 벽을 쓸고 지나가는 동안 이웃집 불은 모두 꺼졌지만 빅헤디의 창문은 마지막까지 켜져 있다. 밤을 꼬박 새웠다는 걸 보여 주는 장면이다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "앞의 밤 풍경과 같은 건물과 같은 각도로 만들어서 시간만 흘렀다는 게 한눈에 보이게 했다. 빛이 바뀌는 속도는 급하지 않고 천천히 가도록 했다."
   },
 
 
@@ -551,11 +576,16 @@ const projectDays = [
     title: "DAY 25",
     uploaded: true,
     youtubeId: "MTsq8YbMZr8",
-    description: "",
+
+    description:
+      "화면을 가득 채운 건 빅헤디의 손이다. 치즈를 조금 떼어 서로 엇갈린 면 두 가닥 사이에 눌러 붙인다. 손을 떼어도 붙은 채로 있고 살짝 흔들어 봐도 끄떡없다. 면과 치즈로 만든 이음새가 정말 버틴다는 걸 확인하는 순간이다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "만드는 물건의 전체 모습은 끝까지 숨겨야 해서 손과 면 두 가닥만 보이도록 극단적으로 가깝게 잡았다. 치즈의 눌린 자국과 손가락 지문이 보이도록 질감을 강조했다."
   },
 
 
@@ -569,11 +599,16 @@ const projectDays = [
     title: "DAY 26",
     uploaded: true,
     youtubeId: "BD95hP_-ptw",
-    description: "",
+
+    description:
+      "빅헤디가 정신없이 신이 나서 작업한다. 입에 면 한 가닥을 문 채 양손으로 다른 면을 맞추고 도면을 힐끔 본다. 머리에 꽂은 연필을 뽑아 길이를 재 보고 다시 꽂은 뒤 손가락에 달라붙은 치즈를 털어 낸다. 신나 있지만 과하지 않고 어딘가 어설프고 무덤덤한 모습이다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "가슴 위쪽까지만 보이게 해서 작업 중인 물건은 프레임 아래로 빠지게 했다. 빠르고 바쁜 분위기가 나도록 동작을 잘게 끊어서 요청했다."
   },
 
 
@@ -587,11 +622,16 @@ const projectDays = [
     title: "DAY 27",
     uploaded: true,
     youtubeId: "cAcfvEEcBMQ",
-    description: "",
+
+    description:
+      "냉장고 안에서 바깥을 보는 시점이다. 문이 열리자 따뜻한 불빛이 쏟아지고 선반 위에 치즈 덩어리가 놓여 있다. 빅헤디의 손이 화면 안으로 쑥 들어와 치즈를 집어 간다. 무언가를 만들려고 재료를 챙기는 첫 걸음이다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "냉장고 불빛은 실제 소품 전구처럼 따뜻하게 보이도록 했다. 이후 장면과 이어지도록 치즈 덩어리의 크기와 색을 고정했다."
   },
 
 
@@ -605,11 +645,16 @@ const projectDays = [
     title: "DAY 28",
     uploaded: true,
     youtubeId: "Y4tsv0SPF7E",
-    description: "",
+
+    description:
+      "바닥에 책상다리로 앉은 빅헤디가 쏟아진 면 사이에서 열심히 작업을 이어 간다. 팔꿈치를 바쁘게 움직이다가 면 조각 하나가 핑 하고 화면 밖으로 날아간다. 그 뒤에서 고양이가 조리대에서 폴짝 내려와 슬금슬금 걸어오더니 빅헤디 오른쪽에 앉아 고개를 갸웃하며 그를 들여다본다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "빅헤디의 몸이 만드는 물건을 가리도록 각도를 잡아서 정체를 숨겼다. 고양이가 바닥으로 내려오는 동선은 다음 장면에서 고양이가 곁에 앉아 있는 위치와 이어지게 맞췄다."
   },
 
 
@@ -623,11 +668,16 @@ const projectDays = [
     title: "DAY 29",
     uploaded: true,
     youtubeId: "hTLq3cg33Uw",
-    description: "",
+
+    description:
+      "빅헤디의 얼굴이 화면을 가득 채운다. 눈은 반짝이고 활짝 웃어서 앞니가 보이는데 안경은 살짝 삐뚤어졌다. 안경테에는 면 한 가닥이 붙어 있고 볼에는 치즈 부스러기가 묻어 있지만 정작 본인만 모르고 있다. 작업에 푹 빠진 신난 표정이다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "눈동자 위 플라스틱 돔에 하이라이트가 크게 맺히도록 해서 신난 느낌을 눈으로 전달했다. 웃음이 과해지지 않게 무덤덤한 유머로 유지했다."
   },
 
 
@@ -641,11 +691,16 @@ const projectDays = [
     title: "DAY 30",
     uploaded: true,
     youtubeId: "YqmqSm_Lbvg",
-    description: "",
+
+    description:
+      "바닥에 주황색 가방이 툭 떨어져 있다. 쏟아진 면을 줍다가 짜증이 난 빅헤디가 가방을 벗어서 던진 것이다. 덮개가 열리면서 돌돌 말린 푸른색 도면이 굴러 나와 바닥에 활짝 펼쳐진다. 회의실 화이트보드에 있던 탑 그림이 드러나고 도면 옆에 흩어진 면들이 그 선과 겹쳐 보이기 시작한다. 도면과 면을 번갈아 보던 빅헤디의 얼굴에 호기심 어린 작은 미소가 번진다.",
+
     prompt: "",
     promptFile: "",
     promptFileName: "",
-    note: ""
+
+    note:
+      "가방을 던지는 동작이 거칠어 보이지 않도록 짜증이 작고 웃기게 나오는 쪽으로 잡았다. 도면과 면이 겹치는 부분은 CG가 아니라 카메라 안에서 이중 노출을 한 듯한 느낌으로 요청했다."
   }
 
 ];
