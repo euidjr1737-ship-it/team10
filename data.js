@@ -628,25 +628,24 @@ const projectDays = [
     promptFile: "",
     promptFileName: "",
     note: ""
+  },
+
+
+  /* =====================================================
+     DAY 30
+  ====================================================== */
+
+  {
+    day: 30,
+    date: "",
+    title: "DAY 30",
+    uploaded: true,
+    youtubeId: "YqmqSm_Lbvg",
+    description: "",
+    prompt: "",
+    promptFile: "",
+    promptFileName: "",
+    note: ""
   }
 
 ];
-
-
-/* =====================================================
-   DAY 30
-   아직 업로드되지 않은 날짜
-===================================================== */
-
-projectDays.push({
-  day: 30,
-  date: "",
-  title: "DAY 30",
-  uploaded: false,
-  youtubeId: "",
-  description: "",
-  prompt: "",
-  promptFile: "",
-  promptFileName: "",
-  note: ""
-});
